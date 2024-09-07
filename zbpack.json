@@ -1,4 +1,0 @@
-{
-  "build_command": "npm install -g @angular/cli && npm ci",
-  "start_command": "npm start"
-}
